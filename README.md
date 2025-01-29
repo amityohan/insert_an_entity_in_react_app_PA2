@@ -10,7 +10,7 @@ Add functionality to navigate to an "Add Movie" form. This task focuses exclusiv
 ## Tasks
 
 ### 1. Add "Add Movie" Button on Dashboard Page
-
+    
 - **Placement:** Position the "Add Movie" button prominently on the Dashboard page, preferably at the top or in a toolbar for easy access.
 - **Functionality:** When clicked, the button should navigate the user to the "Add Movie" form page.
 
